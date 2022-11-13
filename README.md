@@ -98,7 +98,7 @@
 
     - **Google Fonts** is where I derived both by font types. That is: "Urbanist", and "Dancing Script". [Google Fonts] (https://fonts.google.com/)
 
-    - **PowerPoint** was used to create my slide deck presentation, which can be viewd here: [Youtube](https://www.youtube.com/watch?v=Os4NuAUpjHk)
+    - **PowerPoint** was used to create my slide deck presentation, which can be viewd here: [My Presentation](https://www.youtube.com/watch?v=Os4NuAUpjHk)
 
     - Finally, I used **Netlify** to deploy my website: [My Portfolio Website] (https://laylas-portfolio.netlify.app/)
 
