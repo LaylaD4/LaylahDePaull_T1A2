@@ -44,7 +44,7 @@
 
     **3. Sitemap:** 
 
-    <img src="docs/Sitemap.jpg" alt="My Website Sitemap">
+    <img src="docs/Sitemap.png" alt="My Website Sitemap">
     
     
     **4. Screenshots:** Wireframes (Mobile **[@414px]**, Tablet **[@834px]**, Desktop **[@1224px]**):
@@ -92,7 +92,54 @@
 
     - **Github** is where my code was 'pushed'. Therefore, it is now being hosted publicly in the Github repository: [LaylahDePaull_T1A2] (https://github.com/LaylaD4/LaylahDePaull_T1A2).
 
-    - Finally, I used **Netlify** to deploy my website: [My Portfolio Website] (https://layla-portfolio.netlify.app
+    - **Google Fonts** is where I derived both by font types. That is: "Urbanist", and "Dancing Script". [Google Fonts] (https://fonts.google.com/)
+
+    - **PowerPoint** was used to create my slide deck presentation, which can be viewd here: [Youtube](https://www.youtube.com/watch?v=Os4NuAUpjHk)
+
+    - Finally, I used **Netlify** to deploy my website: [My Portfolio Website] (https://layla-portfolio.netlify.app)
+
+**IMAGE REFERENCES**
+
+All image sources that I do not own the rights to can be referenced here:
+
+- **EcommercePic.jpg**
+[Envato] (https://www.envato.com/blog/ecommerce-website-features/)
+
+- **BlogEcommercePic.jpg**
+[Neetable] (https://neetable.com/ecommerce-app-development)
+
+- **SocialMedia.jpg**
+[Make Use Of] (https://www.makeuseof.com/best-social-media-apps-for-adults/)
+
+- **BlogSocialPic.jpg**
+[Dreams Time] (https://www.dreamstime.com/social-media-app-mobile-multi-channel-internet-online-application-digital-lifestyle-logo-ipad-iphone-bangkok-thailand-image186501710)
+
+- **FoodDelivery.jpg**
+[Mobile App Daily] (https://www.mobileappdaily.com/best-food-delivery-apps)
+
+- **BlogFoodPic.jpg**
+[Seattle Mag] (https://seattlemag.com/eat-drink/heres-difference-between-all-those-restaurant-delivery-apps/)
+
+- **FitnessPic.jpg**
+[Vecteezy] (https://www.vecteezy.com/vector-art/2382839-fitness-tracker-app-design-concept-vector-illustration)
+
+- **BlogFitnessPic.jpg**
+[BXS Insight] (https://www.bsxinsight.com/how-do-fitness-trackers-work/)
+
+- **TradePic.jpg**
+[ROC Cabinetry] (https://roccabinetry.com/construction-and-carpentry-6-superb-apps-for-contractors/https://roccabinetry.com/construction-and-carpentry-6-superb-apps-for-contractors/)
+
+- **BlogTradePic.jpg**
+[Trade Tools] (https://blog.tradetools.com/index.php/2018/09/02/8-must-have-apps-for-tradies/)
+
+- **gk.jpg**
+[Fine Art America] (https://fineartamerica.com/featured/g-k-chesterton-literary-legend-mary-bassett.html)
+
+- **Blog.jpg**
+[Webnode] (https://www.webnode.com/blog/we-launched-a-new-function-start-blogging/)
+
+- **messagebkground.jpg**
+[PPT Grounds] (https://www.pptgrounds.com/technology/2803-email-and-letter-post-it-backgrounds)
 
  
 

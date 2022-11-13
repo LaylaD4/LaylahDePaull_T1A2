@@ -8,7 +8,6 @@
 
 body {
     background: white;
-    /* min-width: 200px; */
 }
 
 
@@ -20,14 +19,12 @@ body {
     display: block;
     position: fixed;
     top: 0;
-    /* border: 2px solid red; */
     background: #8FE9C9;
     z-index: 4;
     width: 100%;
     height: 15vh;
     max-height: 100px;
     border-radius: 0.2rem;
-    /* min-width: 220px; */
 }
 
 .logo-container {
@@ -42,7 +39,6 @@ body {
 .header-banner .menu {
     background: white;
     z-index: 4;
-    /* margin: 2rem auto; */
 }
 
 .header-banner .logo-container .logo {
@@ -52,7 +48,6 @@ body {
     left: 0;
     height: 100%;
     border-radius: 0.2rem;
-    /* border: solid 10px black; */
 }
 
 
@@ -62,19 +57,12 @@ body {
     align-items: center;
     justify-content: center;
     margin: auto;
-    /* margin-top: 1rem; */
     padding-top: 2rem;
-    /* padding-bottom: 2rem; */
-    /* border: 1px solid blue; */
     width: 90%;
     min-width: 200px;
-    /* border-top: 5px solid #f5f5f5; */
     border-radius: 0.2rem;
     max-width: 1500px;
     max-height: 300px;
-    
-   
-  
 }
 
 .header-banner .menu ul li {
@@ -82,26 +70,16 @@ body {
     padding: 1rem 2rem;
     border-top: 5px solid #f5f5f5;
     text-align: center;
-    width: 100%;
-    /* font-family: 'Urbanist', sans-serif; */
-       
+    width: 100%;    
 }
 
 .header-banner .menu ul li a {
     display: block;
     text-decoration: none;
     color: black;
-    /* border: 2px solid yellow; */
     font-size: 1.8rem;
     cursor: pointer;
-    /* font-size: 2rem; */
-    /* padding: 1.5rem 2rem; */
 }
-
-/* .header-banner .menu ul li:hover {
-    background: #8FE9C9;
-    border-radius: 0.2rem;
-} */
 
 /* ---------------------- MAIN CONTENTS ---------------------- */
 
@@ -117,23 +95,17 @@ body {
     border-top: 5px solid #f5f5f5;
     border-bottom: 5px solid #f5f5f5;
     border-radius: 0.2rem;
-    /* min-width: 300px; */
-    /* border: 2px solid blue; */
-    
-
 }
+
 /* ------------------- HOME PAGE MAIN CONTENTS ------------------ */
  /* Top Section - Name & Picture + Job & skills */
 
  .content-box .top-section {
     margin: 1.2em auto;
-    /* width:fit-content; */
-    /* border: 2px solid red; */
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center;
-    
+    align-items: center;  
  }
 
  /* 1ST R3 COMPONENT */
@@ -147,24 +119,16 @@ body {
     justify-content: center;
     align-items: center;
     text-align: center;
-    /* border: solid salmon; */
  }
 
 /* Top Heading h2 - Hi, My Name is Layla.*/
 .content-box .top-section .section1 h2 {
     padding: 0.8rem;
     font-size: 1.8rem;
-    /* font-family: 'Urbanist', sans-serif; */
-    font-weight: bold;
-    
+    font-weight: bold;  
 }
     
 /* Picture of me */
-
-.content-box .top-section .section1 figure {
-    /* border: 2px solid green; */
-    
-}
  .content-box .top-section .section1 figure img {
     display: block;
     margin: auto;
@@ -179,8 +143,8 @@ body {
 .content-box .top-section .section1 figure figcaption {
     padding: 0.8rem;
     font-size: 1.2rem;
-    /* font-family: 'Urbanist', sans-serif;; */
 }
+
 /* 1ST R2 COMPONENT */
 
 /* SECTION 2: */
@@ -193,10 +157,8 @@ body {
     align-items: center;
     text-align: center;
     max-width: 500px;
-    /* border: 2px solid purple;  */
     background: #f5f5f5; 
     border-radius: 1rem;
-    /* width: 50%; */
     
 }
 
@@ -204,8 +166,6 @@ body {
 .content-box .top-section .section2 h2 {
     padding: 0.8rem;
     font-size: 1.8rem;
-    /* font-family: 'Urbanist', sans-serif; */
-
 }
 
 /* Paragraph - I am a full stack... */
@@ -236,11 +196,10 @@ body {
 
 /* A little About Me... Unordered List */
 .content-box .top-section .section2 ul {
-    padding: 1rem;
+    padding: 0.5rem;
     margin: auto;
     text-align: center;
     list-style: none;
-    /* border: 2px solid yellow; */
     width: 70%;
 }
 
@@ -251,17 +210,14 @@ body {
     display: inline-block;
     width: 1em;
     margin-left: -1em;
-
 }
 
 
 /* A little About Me... Unordered List items */
 .content-box .top-section .section2 ul li {
-    /* padding: 1rem; */
-    /* margin: auto; */
+    margin: auto;
     text-align: left;
     line-height: 2.5rem;
-    /* border: 2px solid burlywood; */
     font-size: 1.2rem;
 }
 
@@ -269,7 +225,6 @@ body {
 .content-box .top-section .section2 #resume {
     display: block;
     margin: 0.5rem auto;
-    /* border: 2px solid black; */
     border-radius: 0.2rem;
     padding: 0.8rem 1.8rem;
     text-decoration: none;
@@ -283,42 +238,38 @@ body {
     transition: 1s;
     border: 1px solid lightgrey;
 }
+/* To keep button teal after pressing */
+content-box .top-section .section2 #resume:visited {
+    color: black;
+    background: #8FE9C9;
+    border: none;
+}
 
 /* BOTTOM SECTION */
 
 /* 2ND R3 COMPONENT */
 
  /* Bottom Section - My work + App Projects */
-
- /* .content-box {
-    border: 2px solid red;
- } */
  
  .content-box .bottom-section {
     margin: 1.2rem auto;
-    /* border-top: 5px solid #f5f5f5; */
-    /* border: 2px solid black; */
     width: 90%;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    max-width: 1000px;
-    
+    max-width: 1000px;   
 }
 
 /* To add border between top & bottom section only on about me page */
 .content-box #bottom {
     border-top: 5px solid #f5f5f5;
-
-
 }
 
 /* All Cards */
 .content-box .bottom-section .section-cards {
     margin: auto;
-    padding: 2rem;
-    /* border: 2px solid blue ; */
+    padding: 2rem 2rem 0 2rem;
     width: 90%;
     display: flex;
     flex-direction: column;
@@ -337,6 +288,7 @@ body {
     align-items: center;
     text-align: center;
     width: 100%;
+    max-width: 500px;
 }
 
 /* Adding margin at bottom of Ecommerce card */
@@ -354,7 +306,8 @@ body {
 
 /* Headings of each card - ...App Project */
 .content-box .bottom-section .section-cards .card h3{
-    padding: 1rem;
+    padding: 1rem 0.5rem;
+    font-size: 1.2rem;
 }
 
 /* Bylines of each Card - Published... */
@@ -389,7 +342,6 @@ body {
 
 .content-box .bottom-section .blog-container {
     margin: auto;
-    /* border: 2px solid red; */
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -406,15 +358,13 @@ body {
     display: flex;
     flex-direction: column;
     width: 90%;
-    /* border: 2px solid blue; */
 }
 
 
 
 
 .content-box .bottom-section .blog-container .data figure {
-    margin: 1.5rem auto;
-    
+    margin: 1.5rem auto;  
 }
 
 
@@ -429,7 +379,7 @@ body {
 
 .content-box .bottom-section .blog-container .data p {
     margin: auto;
-    text-align: center;
+    text-align: left;
     font-size: 1.1rem;
     width: 90%;
 }
@@ -494,7 +444,6 @@ body {
 
 .content-box .top-section .section1 .contact-list li {
     text-align: left;
-    /* border: 1px solid black; */
     max-width: 65%;
     margin: auto;
 }
@@ -512,7 +461,6 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     margin: auto;
-
 }
 
 
@@ -523,6 +471,8 @@ body {
 .content-box .top-section .section2 .form #email {
     padding: 0.5rem;
 }
+
+
 
 
 .content-box .top-section .section2 .form #submit {
@@ -562,8 +512,8 @@ body {
     margin: 0 auto 0.3rem auto;
     background: #8FE9C9;
     border-radius: 0.2rem;
-    width: 50%;
-    padding: 0.25rem 2rem;
+    width: 60%;
+    padding: 0.3rem 1rem;
     text-align: center;
 }
 
@@ -595,25 +545,17 @@ footer .footer-section {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    /* border: 2px solid red; */
 }
 
 
 footer .footer-section a img {
     display: block;
-    /* width: 50px; */
-    height: 100%;
-    /* border: 2px solid red; */
-    /* padding: 0 30px; */
-    
+    height: 100%;  
 }
 
 footer a {
     display: block;
     height: 60%;
-    /* margin: 0 auto; */
-    /* border: 2px dashed purple; */
-    /* padding: 0 20px; */
 }
 
 /* ------------------- MEDIA SCREEN 834px ------------------- */
@@ -634,13 +576,10 @@ footer a {
         max-height: 120px;
         padding-top: 2.2rem;
         padding-bottom: 2rem;
-        /* border: 2px solid black; */
 
             }
 
     .header-banner .menu ul li {
-        /* padding-top: 0.2rem; */
-        /* border: 1px solid black; */
         margin-top: 0.8rem;
     }   
 
@@ -652,8 +591,7 @@ footer a {
     .header-banner .menu ul li a { 
                 font-size: 1.8rem;
                 padding: 1rem 1rem;
-                /* border: 1px solid black; */
-                /* margin: 0.5rem auto; */
+                
                  }   
     
  
@@ -704,6 +642,10 @@ footer a {
 /* Fixing Margins Food and Fitness Cards  */
 .content-box .bottom-section #section5 #card3 {
     margin: 0 1rem;
+}
+
+.content-box .bottom-section .section-cards .card h3 {
+    font-size: 1.3rem;
 }
 
 /* -------------- BLOG PAGE 824px ------------ */
@@ -763,14 +705,9 @@ footer a {
     /* Contains all <main> contents */
     .content-box {
         margin: 250px auto 120px auto;
-        /* display: flex; */
-        /* flex-direction: row; */
-        /* align-items: flex-start; */
-        /* border-bottom: 5px solid #f5f5f5;  */
-        /* max-width: 1000px; */
-        
-       
+         
     }
+
     /* Top Section - Name & Picture + Job & skills */
     .content-box .top-section {
         display: flex;
@@ -798,6 +735,10 @@ footer a {
     /* Paragraph - I am a full stack... */
     .content-box .top-section .section2 p {
         max-width: 80%;
+    }
+
+    .content-box .bottom-section .section-cards .card h3 {
+        font-size: 1.5rem;
     }
 
     /* -------------- BLOG PAGE 1224px ------------ */
