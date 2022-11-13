@@ -1,6 +1,6 @@
 -  ## Link to Portfolio website:
 
-    [My Portfolio Website] (https://layla-portfolio.netlify.app)
+    [My Portfolio Website] (https://laylas-portfolio.netlify.app/)
 
 - ## Link to Github Repository:
 
@@ -96,7 +96,7 @@
 
     - **PowerPoint** was used to create my slide deck presentation, which can be viewd here: [Youtube](https://www.youtube.com/watch?v=Os4NuAUpjHk)
 
-    - Finally, I used **Netlify** to deploy my website: [My Portfolio Website] (https://layla-portfolio.netlify.app)
+    - Finally, I used **Netlify** to deploy my website: [My Portfolio Website] (https://laylas-portfolio.netlify.app/)
 
 **IMAGE REFERENCES**
 
