@@ -6,6 +6,10 @@
 
     [LaylahDePaull_T1A2] (https://github.com/LaylaD4/LaylahDePaull_T1A2)
 
+- ## Link to Video Presentation:
+
+    [My Presentation] (https://www.youtube.com/watch?v=Os4NuAUpjHk)
+
 - ## Portfolio Website Desciption:
     
     **1. Purpose:** The purpose of my website is to showcase my skills, work projects, and give the reader some basic insight into my personality. The reader being a prospective employer.
